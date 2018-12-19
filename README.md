@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   
-  adapt: ^0.0.1  // select last version
+  adapt: ^0.0.1  // select the last version
 
 ```
 
@@ -62,7 +62,8 @@ new Container(
 ### If your design is not 750px.
 
 * Initialize the setup size.
-```
+
+```js
 
 // For example, the design is 1000px. You can do it like this.
 

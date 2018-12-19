@@ -1,11 +1,11 @@
 name: adapt
 description: A flutter plugin for adapting screen.Adapt IOS and Android.
 version: 0.0.1
-author: zane <752636052@qq.com>
+author: zane <zanewangwei@gmail.com>
 homepage: https://github.com/wangweianger/adapt_flutter
 
 environment:
-    sdk: ">=2.0.0-dev.68.0 <3.0.0"
+    sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
     flutter:
