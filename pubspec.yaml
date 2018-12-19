@@ -5,13 +5,13 @@ author: zane <752636052@qq.com>
 homepage: https://github.com/wangweianger/adapt_flutter
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+    sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
+    flutter:
+        sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
+    flutter_test:
+        sdk: flutter
 
